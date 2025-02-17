@@ -4,5 +4,5 @@
 - 📫 How to reach me : gayanuthappams@gmail.com 
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I bike. I climb. I lift. I run
-- 💼 Please visit my portfolio to know more : 
+- 💼 Please visit my portfolio to know more : [Portfolio](https://uthappa13.github.io/portfolio/)
 
